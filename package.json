@@ -4,17 +4,23 @@
   "description": "my app",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.15.0",
+    "body-parser": "^1.10.0",
     "concurrently": "^3.2.0",
     "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "http-proxy-middleware": "^1.0.4",
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.12",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.4",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
     "prettier": "^1.19.1",
-    "react-scripts": "^2.1.8"
+    "react-scripts": "^1.1.0",
+    "stripe": "^8.67.0"
   },
   "engines": {
     "node": "12.16.0",
