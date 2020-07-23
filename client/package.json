@@ -24,6 +24,8 @@
     "dns": "^0.2.2",
     "fetch": "^1.1.0",
     "font-awesome": "^4.7.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.5.1",
     "materialize-css": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -31,6 +33,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^1.0.10",
     "react-stripe-checkout": "^2.6.3",
+    "react-typeform-embed": "^0.2.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },

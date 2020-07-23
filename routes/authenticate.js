@@ -9,6 +9,8 @@ module.exports = (app) => {
         res.redirect('/surveys');
 
     }
+    
+    
 
     );
     app.get("/api/logout", (req, res) => {
