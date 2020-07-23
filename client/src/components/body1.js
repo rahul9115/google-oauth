@@ -44,9 +44,9 @@ class Body extends Component {
                                         <div class="offset-lg-2 col-lg-8">
                                             <div class="title-01 title-01--11 text-center">
                                                 <h2 class="title__heading">
-                                                    <span class="title__effect is-visible">We are &nbsp;</span>
+                                                    <h3 className="app">Please fill the loan application form.</h3> &nbsp;
 
-                                                    <span class="title__effect is-visible">AweSome</span>
+                                                <span class="title__effect is-visible"><h3 className="app1">कृपया ऋण आवेदन फॉर्म भरें !</h3></span>
 
 
                                                 </h2>

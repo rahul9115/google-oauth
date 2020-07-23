@@ -3,7 +3,7 @@ import { BrowserRouter, Route } from "react-router-dom"
 import Header from "./Header";
 import { connect } from "react-redux";
 import * as actions from "../actions";
-import type from "./typeform"
+import type from "./typeform";
 import Body from "./body"
 import Body1 from "./body1"
 
