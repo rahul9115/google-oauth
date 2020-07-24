@@ -27,7 +27,7 @@
     "npm": "6.13.4"
   },
   "scripts": {
-    "start":"concurrently \"npm run server\" \"npm run client\"",
+    "start":"node index.js",
     "server": "nodemon pass.js",
     "client": "npm run start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
